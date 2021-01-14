@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.logo {
+  margin-left:5px;
+}
+nav {
+  display: flex;
+  justify-content: space-between;
+  background-color: black;
+  color: white;
+}
+
+.opciones ul {
+  display: flex;
+  list-style: none;
+}
+
+.opciones ul li {
+  margin-right: 10px;
+}
