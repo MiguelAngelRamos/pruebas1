@@ -23,3 +23,8 @@ nav {
 .opciones ul li {
   margin-right: 10px;
 }
+
+.cards {
+  display: flex;
+  justify-content: space-around;
+}
